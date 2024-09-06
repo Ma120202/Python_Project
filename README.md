@@ -1,6 +1,6 @@
 # Python_Project
 
-Welcome to the Python_Project repository! 
+Welcome to my repository for projects in Python! 
 
 This project is designed to show all the work I've done in regards to Python programming that is applicable to different fields which uses Python . 
 It aims to show how influential Python is. 
